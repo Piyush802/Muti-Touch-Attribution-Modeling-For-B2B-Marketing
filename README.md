@@ -30,7 +30,7 @@ provide data-driven insights for marketing budget optimization.
 
 ## 📈 Dashboard Features
 
-1.Model selector (First / Last / Linear / Time Decay / Markov)
+1. Model selector (First / Last / Linear / Time Decay / Markov)
 2. Channel-wise attribution comparison
 3. Conversion & revenue KPIs
 4. Customer journey length analysis
