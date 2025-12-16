@@ -38,19 +38,19 @@ provide data-driven insights for marketing budget optimization.
 
 ## 🔍 Key Insights
 
-#### Different attribution models significantly change channel valuation
-#### Awareness channels are undervalued in last-touch models
-#### Markov attribution provides a more realistic contribution analysis
-#### Budget reallocation based on insights can improve ROI
+#### Different attribution models significantly change channel valuation.
+#### Awareness channels are undervalued in last-touch models.
+#### Markov attribution provides a more realistic contribution analysis.
+#### Budget reallocation based on insights can improve ROI.
 
 ## ⚠️ Limitations
 
-#### Synthetic dataset used
-#### No cost-level ROI modeling
-#### Offline channels not included
+#### Synthetic dataset used.
+#### No cost-level ROI modeling.
+#### Offline channels not included.
 
 ## 🚀 Future Enhancements
 
-###Shapley value attribution
-###Cost-based ROI optimization
-###Real-time data integration
+#### Shapley value attribution.
+#### Cost-based ROI optimization.
+#### Real-time data integration.
