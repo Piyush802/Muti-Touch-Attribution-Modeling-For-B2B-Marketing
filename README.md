@@ -15,10 +15,10 @@ provide data-driven insights for marketing budget optimization.
 
 ## 🛠️ Tools & Technologies
 
-#### Python: Data processing, attribution modeling
-#### Power BI: Interactive dashboards & visualization
-#### Pandas / NumPy: Data manipulation
-#### Markov Chains: Probabilistic attribution modeling
+#### Python:  Data processing, attribution modeling
+#### Power BI:  Interactive dashboards & visualization
+#### Pandas / NumPy:  Data manipulation
+#### Markov Chains:  Probabilistic attribution modeling
 
 ## 📊 Attribution Models Implemented
 
